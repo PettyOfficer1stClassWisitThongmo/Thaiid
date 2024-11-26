@@ -31,3 +31,37 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Gradle files
+.gradle/https://tdga.dga.or.th/index.php?option=com_comprofiler&view=userdetails&Itemid=205&lang=th
+build/com.android.vending
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+
+# Android Studio generated files and folders
+captures/com.android.vending
+.externalNativeBuild/com.android.vending
+.cxx/com.android.vending
+*.apk
+output.json
+
+# IntelliJ
+*.iml
+.idea/com.android.vending
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiling
+*.hprof
