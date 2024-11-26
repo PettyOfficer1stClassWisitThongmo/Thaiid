@@ -1,5 +1,5 @@
 # Gradle files
-.gradle/
+.gradle/https://en.wikipedia.org/wiki/User%3APea.chiangkhan.loei?wprov=sfla1
 build/com.android.vending
 
 # Local configuration file (sdk path, etc)
@@ -9,15 +9,15 @@ local.properties
 *.log
 
 # Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
+captures/com.android.vending
+.externalNativeBuild/com.android.vending
+.cxx/com.android.vending
 *.apk
 output.json
 
 # IntelliJ
 *.iml
-.idea/
+.idea/com.android.vending
 misc.xml
 deploymentTargetDropDown.xml
 render.experimental.xml
