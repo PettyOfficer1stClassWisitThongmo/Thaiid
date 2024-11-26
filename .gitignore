@@ -1,6 +1,6 @@
 # Gradle files
 .gradle/
-build/
+build/com.android.vending
 
 # Local configuration file (sdk path, etc)
 local.properties
